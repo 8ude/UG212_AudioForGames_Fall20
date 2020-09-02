@@ -20,7 +20,7 @@ Things to consider when listening:
  - Do you hear more pitches, or more noises in this piece?  Are there any places that seem more pitchy or more noisey?
  - How does this piece make you feel?  Do you associate it with any places, objects, or times? Or maybe other games, film, or music you've heard? 
 
-Record some responses [On This Document](https://docs.google.com/document/d/1tRf_EwWJEI-p0qJuVaWIUiVvEZSH8LivPGvi1lVtUEQ/edit?usp=sharing), or be prepared to share yours in class on **Wednesday, September 9**
+If you wish, record some responses [On This Document](https://docs.google.com/document/d/1tRf_EwWJEI-p0qJuVaWIUiVvEZSH8LivPGvi1lVtUEQ/edit?usp=sharing), or be prepared to share yours in class on **Wednesday, September 9**
 
 
 
