@@ -7,18 +7,18 @@ WEEK 1 ASSIGNMENTS
 Reading - [Seeing Circles Signs & Signals: “Intro, Signals & Sound” & “Sines & Sampling”](https://jackschaedler.github.io/circles-sines-signals/)
 
 Some questions to consider:
-Where else have you heard the term "aliasing"?  Can you think of any time that you experienced "aliasing" and what it did?
-What are some reasons we might "over-sample" audio?  Think about the ways we might be manipulating audio to create sound effects.
-What are some reasons we might "under-sample" audio?  These might be practical decisions, or an aesthetic ones.
-What is the lowest frequency range that we can record speech and still distinguish words?  Why do you think this is?
+ - Where else have you heard the term "aliasing"?  Can you think of any time that you experienced "aliasing" and what it did?
+ - What are some reasons we might "over-sample" audio?  Think about the ways we might be manipulating audio to create sound effects.
+ - What are some reasons we might "under-sample" audio?  These might be practical decisions, or an aesthetic ones.
+ - What is the lowest frequency range that we can record speech and still distinguish words?  Why do you think this is?
 
 Listening - [Tristan Perich: 1-Bit Symphony](https://tristanperich.bandcamp.com/album/1-bit-symphony) - at least Movement 1.  TURN YOUR SOUND DOWN.
 
 Things to consider when listening:
-The reading had to do with frequencies, which affect sample _rate_ .  This music is constrained by bit depth, which restricts each sample's _amplitude_.
-What does "1-bit" mean?  Why do you think the composer adopted this constraint?  What are some ways this piece generates variety using only 1 bit?  
-Do you hear more pitches, or more noises in this piece?  Are there any places that seem more pitchy or more noisey?
-How does this piece make you feel?  Do you associate it with any places, objects, or times? Or maybe other games, film, or music you've heard? 
+ - The reading had to do with frequencies, which affect sample _rate_ .  This music is constrained by bit depth, which restricts each sample's _amplitude_.
+ - What does "1-bit" mean?  Why do you think the composer adopted this constraint?  What are some ways this piece generates variety using only 1 bit?  
+ - Do you hear more pitches, or more noises in this piece?  Are there any places that seem more pitchy or more noisey?
+ - How does this piece make you feel?  Do you associate it with any places, objects, or times? Or maybe other games, film, or music you've heard? 
 
 Record some responses [On This Document](https://docs.google.com/document/d/1tRf_EwWJEI-p0qJuVaWIUiVvEZSH8LivPGvi1lVtUEQ/edit?usp=sharing), or be prepared to share yours in class on **Wednesday, September 9**
 
