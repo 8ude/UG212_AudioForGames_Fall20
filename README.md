@@ -1,6 +1,13 @@
 # UG212_AudioForGames_Fall20
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
+WEEK 2 ASSIGNMENTS
+------
+
+Reading - [Lecture on Nothing](https://seansturm.files.wordpress.com/2012/09/john-cage-lecture-on-nothing.pdf)
+
+
+
 WEEK 1 ASSIGNMENTS
 ------
 
