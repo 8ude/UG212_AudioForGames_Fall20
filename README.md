@@ -4,7 +4,26 @@ Fall 2020 Repository for Audio for Digital Games at NYU!
 WEEK 2 ASSIGNMENTS
 ------
 
-Reading - [Lecture on Nothing](https://seansturm.files.wordpress.com/2012/09/john-cage-lecture-on-nothing.pdf)
+
+**Creating:** Make a 1-3 minute "Sound Story" In Reaper, and upload it [HERE](https://drive.google.com/drive/folders/1LbdIesTbLyCatF_265w0hd8fuylM9vT4?usp=sharing).  
+
+It might help to start with a setting that you want to convey, or some kind of scenario (like.. a LARP Battle in the Forest, or a High Speed Bicyle Chase).  Try to Experiment with changes in Envelopes, Pitch, Panning, and Volume to tell your story.  
+
+**Reading** - [John Cage - Lecture on Nothing](https://seansturm.files.wordpress.com/2012/09/john-cage-lecture-on-nothing.pdf)
+
+Read the first 3 pages
+
+Consider or respond in writing:
+ - Read a bit of the piece out loud, taking care to wait when there is space on the page
+ - Py attention to the sounds that you hear in pauses between the words.  What do you hear?
+ - Is this more a piece of music?  Of poetry?  Of just sounds?
+ 
+**Listening:** [The Art Ensemble of Chicago - Illistrum](https://www.youtube.com/watch?v=xxjf54tsWEc)
+
+Consider or respond in writing:
+  - How many different instruments can you count in this piece?  Where do they use more tonal sounds?  More noisey ones?
+  - How do you think the instruments and sound effects relate to the story?  Is it complementing the story?  Setting the scene?  Following the emotional arc?  
+  - Are there moments where you think the instruments feel completely in sync with the storyteller?  or completely detached?
 
 
 
