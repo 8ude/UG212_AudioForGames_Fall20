@@ -9,7 +9,7 @@ DUE Monday, September 14 at 4 pm
 
 **Creating:** Make a 1-3 minute "Sound Story" In Reaper, and upload it [HERE](https://drive.google.com/drive/folders/1LbdIesTbLyCatF_265w0hd8fuylM9vT4?usp=sharing).  
 
-It might help to start with a setting that you want to convey, or some kind of scenario (like.. a LARP Battle in the Forest, or a High Speed Bicyle Chase).  Try to Experiment with changes in Envelopes, Pitch, Panning, and Volume to tell your story.  
+It might help to start with a setting that you want to convey, or some kind of scenario (like.. a LARP Battle in the Forest, or a High Speed Bicyle Chase), or you can just grab a bunch of different sounds and make an audio collage!  Try to Experiment with changes in Envelopes, Pitch, Panning, and Volume to tell your story.  
 
 **Reading** [John Cage - Lecture on Nothing](https://seansturm.files.wordpress.com/2012/09/john-cage-lecture-on-nothing.pdf)
 
