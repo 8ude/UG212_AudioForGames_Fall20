@@ -1,6 +1,20 @@
 # UG212_AudioForGames_Fall20
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
+
+WEEK 3 ASSIGNMENT
+-----
+DUE Monday, September 21 at 4 pm.  Note that the syllabus also has a listening assignment, but I'm going to incorporate a bit of that into the video that I'm making.
+
+Choose 2 video clips from [THIS FOLDER](https://drive.google.com/file/d/1Sb_F2S-Yw5tFaW-Y55rt1VXSnXP3-WOE/view?usp=sharing).  If you want, you can find your own, provided that they are roughly 10 seconds long and contains a decent amount of gameplay footage (more than just footsteps).
+
+Add sound effects to accompany the gifs.  The goal for the first pass is to have a distinct sound for every distinct motion - try to make it believable, as if the motions in the gif are producing the sound. 
+
+Then, do a "second pass."  Choose different source material, and take a different artistic direction.  Try to still have sound for almost every motion, but go against convention! 
+
+Render these (there should be 4 total) as WEBM videos and [upload them here when you're done](https://drive.google.com/drive/folders/1jvjoJ3HUWcMMyps0ms-OdQQZTIyXClmW?usp=sharing).  Make a sub-folder with your name.
+
+
 WEEK 2 ASSIGNMENTS
 ------
 
