@@ -4,7 +4,8 @@ Fall 2020 Repository for Audio for Digital Games at NYU!
 
 WEEK 3 ASSIGNMENT
 -----
-DUE Monday, September 21 at 4 pm.  Note that the syllabus also has a listening assignment, but I'm going to incorporate a bit of that into the video that I'm making.
+DUE Monday, September 21 at 4 pm.  
+Note that the syllabus also has a listening assignment, but I'm going to incorporate a bit of that into the video that I'm making.
 
 Choose 2 video clips from [THIS FOLDER](https://drive.google.com/file/d/1Sb_F2S-Yw5tFaW-Y55rt1VXSnXP3-WOE/view?usp=sharing).  If you want, you can find your own, provided that they are roughly 10 seconds long and contains a decent amount of gameplay footage (more than just footsteps).
 
