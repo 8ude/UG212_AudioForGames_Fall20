@@ -5,7 +5,7 @@ WEEK 2 ASSIGNMENTS
 ------
 
 
-DUE Monday, September 14 at 4 pm
+DUE Monday, September 14 at 4 pm.  This assignment is also avalable [AT THIS LINK](https://docs.google.com/document/d/1-brqxZFMzU7TiCHPviXjwtxdSyuLEn5Pa6WXwRQ5lkc/edit?usp=sharing), where you can respond in writing if you wish.
 
 **Creating:** Make a 1-3 minute "Sound Story" In Reaper, and upload it [HERE](https://drive.google.com/drive/folders/1LbdIesTbLyCatF_265w0hd8fuylM9vT4?usp=sharing).  
 
