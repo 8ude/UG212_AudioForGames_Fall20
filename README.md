@@ -2,6 +2,35 @@
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
 
+WEEK 4 ASSIGNMENT- 2D reskin part 1
+------
+Due Monday, September 28 at 4 pm Eastern
+
+Gabe Cuzzillo's game "Block Dog" is silent.  Clone this repo, open BlockDog in Unity Hub, and give it sound!
+
+You should be working in the Scene called "Block Dog", on the Prefab called "AudioDirector."  Your work begins at the header **Start Editing Stuff Here**. The minimum is to create **13** assets for the game.  2 of these are loops - the Danger Loop and the Background Music (which could also be background ambience, if you prefer)
+
+You can use:
+* Whatever you find on the internet, or in the Audio for Digital Games Library.
+* Anything using synthesis, if you wish.  [VCV rack](https://vcvrack.com/) can make some cool sounds (you need to download a recording module to write to files).
+* Any effects, including vst plugins that you find on the internet.  For example, [this](https://glitchmachines.com/products/fracture/) is a free one that was used a lot on the game Prey, and can mangle sounds into something completely different!
+* If you want to record sounds, you can do that too.
+
+You are free to make any code modifications, as long as they only affect the audio
+
+Things to avoid:
+* Any Unmodified samples.  You need to modify the sounds from freesound or the library in some way (changing pitch, layering, stretching, adding effects, etc).
+* Repeating sounds for different actions (for example, using the same sound for "jump" as for "throw").  Try to re-use *portions* of a sound in other sounds.  
+* Sounds that start "late" - your sounds should have little to no silence (0.01 seconds max) at the beginning
+* Sounds that end "early" - your sounds should always fade to silence.  
+* Clicks/Pops in your loops
+
+Aim for 
+* clarity of actions (can I tell what's going on based on sound?) 
+* consistency (does the sound seem to match with the visuals and animations?)
+and, most importantly, 
+* a sense of style/aesthetics (are the sounds augmenting the game in a way that gives it life and character?).
+
 WEEK 3 ASSIGNMENT
 -----
 DUE Monday, September 21 at 4 pm.  
