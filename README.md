@@ -6,6 +6,8 @@ WEEK 4 ASSIGNMENT- 2D reskin part 1
 ------
 Due Monday, September 28 at 4 pm Eastern
 
+You can either make a web build on itch.io, or upload a build [HERE](https://drive.google.com/drive/folders/1nW34lIzy_uobQxuW0uwQGyaZqYYVl5Io?usp=sharing) (make sure to upload a Windows build if you do)
+
 Gabe Cuzzillo's game "Block Dog" is silent.  Clone this repo, open BlockDog in Unity Hub, and give it sound!
 
 You should be working in the Scene called "Block Dog", on the Prefab called "AudioDirector."  Your work begins at the header **Start Editing Stuff Here**. The minimum is to create **13** assets for the game.  2 of these are loops - the Danger Loop and the Background Music (which could also be background ambience, if you prefer)
