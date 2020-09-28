@@ -2,6 +2,17 @@
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
 
+WEEK 5 ASSIGNMENT- 2D reskin part 2
+------
+Your creative director applauds your efforts, but wants to go in a different direction for the audio design.  
+
+You've been assigned one of the Mystery Packs from [HERE](https://drive.google.com/drive/folders/1e5dkyT4-45uv0sO0fd0s2fYW0lsx-3yV?usp=sharing)
+
+You can do whatever you want with these samples or recordings, but cannot use audio from anywhere else!
+
+When you're done, please [UPLOAD YOUR BUILDS HERE](https://drive.google.com/drive/folders/1CRcqZYwboXL1LyDavhoafVpyCxHVNZhM?usp=sharing)
+
+
 WEEK 4 ASSIGNMENT- 2D reskin part 1
 ------
 Due Monday, September 28 at 4 pm Eastern
