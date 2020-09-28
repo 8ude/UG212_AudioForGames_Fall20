@@ -6,7 +6,7 @@ WEEK 5 ASSIGNMENT- 2D reskin part 2
 ------
 Your creative director applauds your efforts, but wants to go in a different direction for the audio design.  
 
-You've been assigned one of the Mystery Packs from [HERE](https://drive.google.com/drive/folders/1e5dkyT4-45uv0sO0fd0s2fYW0lsx-3yV?usp=sharing)
+You've been assigned one of the MYSTERY PACKS from [HERE](https://drive.google.com/drive/folders/1e5dkyT4-45uv0sO0fd0s2fYW0lsx-3yV?usp=sharing)
 
 You can do whatever you want with these samples or recordings, but cannot use audio from anywhere else!
 
