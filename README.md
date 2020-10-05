@@ -1,6 +1,14 @@
 # UG212_AudioForGames_Fall20
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
+WEEK 6 ASSIGNMENT- Recording Foley and Ambience
+------
+Foley: [Watch this video](https://www.youtube.com/watch?v=039xgixZPeg&feature=emb_title), and pick out 2 sound actions.  Try to recreate the sound using things that you record.  Do not use any effects, with the exception of noise removal, volume changes, and dynamic range compression.  
+
+Ambience: pick 2 images [from this folder](https://drive.google.com/drive/folders/1crH3rB_iBnjYC5phnSvvsGE4U8avDhPO?usp=sharing).  Create a stereo ambience loop for each of them, using sounds that you record (you can use some effects for this one).  this could be a bit abstract, or more realistic.
+
+When you're finished, upload your sounds in a folder [HERE](https://drive.google.com/drive/folders/16z3TcV2Xj5oUtiaf0OzNpj5lUbr_mKG5?usp=sharing), with a document detailing the time stamps for your actions
+
 
 WEEK 5 ASSIGNMENT- 2D reskin part 2
 ------
