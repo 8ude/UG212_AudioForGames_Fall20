@@ -31,7 +31,9 @@ Here's a [tutorial video](https://www.loom.com/share/2da0741391f243c5814be9a17b4
 
 Gabe Cuzzillo's game "Block Dog" is silent.  Clone this repo, open BlockDog in Unity Hub, and give it sound!
 
-You should be working in the Scene called "Block Dog", on the Prefab called "AudioDirector."  Your work begins at the header **Start Editing Stuff Here**. The minimum is to create **13** assets for the game.  2 of these are loops - the Danger Loop and the Background Music (which could also be background ambience, if you prefer)
+If you need a Unity refresher, are new to the program, or just need a written refence on what to do, you can find a write up [HERE](https://docs.google.com/document/d/1Iy4nT3MbeoLoDfEP5K5wEiEsUHY7wQRriO0M3FbfPro/edit?usp=sharing)
+
+You should be working in the Scene called "Block Dog", on the Prefab called "AudioDirector."  Your work begins at the header **Start Editing Stuff Here**. The minimum is to create **12** assets for the game.  2 of these are loops - the Danger Loop and the Background Music (which could also be background ambience, if you prefer)
 
 You can use:
 * Whatever you find on the internet, or in the Audio for Digital Games Library.
