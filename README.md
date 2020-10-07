@@ -25,9 +25,9 @@ WEEK 4 ASSIGNMENT- 2D reskin part 1
 ------
 Due Monday, September 28 at 4 pm Eastern
 
-You can either make a web build on itch.io, or upload a build [HERE](https://drive.google.com/drive/folders/1nW34lIzy_uobQxuW0uwQGyaZqYYVl5Io?usp=sharing) (make sure to upload a Windows build if you do)
+~~You can either make a web build on itch.io, or~~ upload a build [HERE](https://drive.google.com/drive/folders/1nW34lIzy_uobQxuW0uwQGyaZqYYVl5Io?usp=sharing) (make sure to upload a Windows build if you do)
 
-Here's a [tutorial video](https://www.loom.com/share/2da0741391f243c5814be9a17b4a8f5e) on how to make a web build and upload it to itch.io
+~~Here's a [tutorial video](https://www.loom.com/share/2da0741391f243c5814be9a17b4a8f5e) on how to make a web build and upload it to itch.io~~ -- The Unity Audio Mixer doesn't work properly on web builds :( we'll stick to desktop builds for this assignment
 
 Gabe Cuzzillo's game "Block Dog" is silent.  Clone this repo, open BlockDog in Unity Hub, and give it sound!
 
