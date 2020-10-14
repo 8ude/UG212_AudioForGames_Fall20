@@ -1,6 +1,34 @@
 # UG212_AudioForGames_Fall20
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
+WEEK 7/8 ASSIGNMENT - 3D RESKIN
+------
+The SampleFPS project is filled with placeholder sounds, and needs new audio!  Clone the repo, open the Otto Project in both Unity and FMOD, and replace the audio.
+
+There will be a **progress check on October 26** - aim for about half of the sounds in the game.  Builds will be due at **11:59 pm on Sunday, Nov 1st**
+
+A lot of the work is going to be done in FMOD studio.  You may need to work in Unity a bit to make more emitters for your ambiences, or to code additional parameters if you choose.
+
+I challenge you to work within some constraints to transform the feel of this game through sound.  Maybe work with a small set of samples, or try doing the entire ReSkin from sounds that you record yourself.  It's abstract enough that we could imagine that the robots are really any kind of antagonist.  
+
+I'm essentially looking for the same thing with the 2D game:
+
+* clarity of actions (can I tell what's going on based on sound?) 
+* consistency (does the sound seem to match with the visuals and animations?)
+and, most importantly, 
+* a sense of style/aesthetics (are the sounds augmenting the game in a way that gives it life and character?).
+
+But now, you have the added challenge of:
+* making distinctive/believable spaces
+* providing your player with spatial gameplay cues using sound
+
+You will lose points for:
+* Any Unmodified samples.  You need to modify and/or layer the sounds from freesound in some way (changing pitch, stretching, adding effects, etc).
+* Repeating sounds for different actions  Again, treat your samples like ingredients.
+* Sounds that start "late" - your sounds should have little to no silence (0.01 seconds max) at the beginning
+* Sounds that end "early" - your sounds should always fade to silence.
+* Loops with clearly audible seams (I can tell when the loop repeats)
+
 WEEK 6 ASSIGNMENT- Recording Foley and Ambience
 ------
 Foley: [Watch this video](https://www.youtube.com/watch?v=039xgixZPeg&feature=emb_title), and pick out 2 sound actions.  Try to recreate the sound using things that you record.  Do not use any effects, with the exception of noise removal, volume changes, and dynamic range compression.  
