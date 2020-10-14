@@ -1,14 +1,39 @@
 # UG212_AudioForGames_Fall20
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
+WEEK 6 ASSIGNMENT- Recording Foley and Ambience
+------
+Foley: [Watch this video](https://www.youtube.com/watch?v=039xgixZPeg&feature=emb_title), and pick out 2 sound actions.  Try to recreate the sound using things that you record.  Do not use any effects, with the exception of noise removal, volume changes, and dynamic range compression.  
+
+Ambience: pick 2 images [from this folder](https://drive.google.com/drive/folders/1crH3rB_iBnjYC5phnSvvsGE4U8avDhPO?usp=sharing).  Create a stereo ambience loop (10-30 seconds) for each of them, using sounds that you record (you can use some effects for this one).  this could be a bit abstract, or more realistic.
+
+When you're finished, upload your sounds in a folder [HERE](https://drive.google.com/drive/folders/16z3TcV2Xj5oUtiaf0OzNpj5lUbr_mKG5?usp=sharing), with a document detailing the time stamps for your actions
+
+
+WEEK 5 ASSIGNMENT- 2D reskin part 2
+------
+Your creative director applauds your efforts, but wants to go in a different direction for the audio design.  
+
+You've been assigned one of the MYSTERY PACKS from [HERE](https://drive.google.com/drive/folders/1e5dkyT4-45uv0sO0fd0s2fYW0lsx-3yV?usp=sharing)
+
+You can do whatever you want with these samples or recordings, but cannot use audio from anywhere else!
+
+When you're done, please [UPLOAD YOUR BUILDS HERE](https://drive.google.com/drive/folders/1CRcqZYwboXL1LyDavhoafVpyCxHVNZhM?usp=sharing)
+
 
 WEEK 4 ASSIGNMENT- 2D reskin part 1
 ------
 Due Monday, September 28 at 4 pm Eastern
 
+~~You can either make a web build on itch.io, or~~ upload a build [HERE](https://drive.google.com/drive/folders/1nW34lIzy_uobQxuW0uwQGyaZqYYVl5Io?usp=sharing) (make sure to upload a Windows build if you do)
+
+~~Here's a [tutorial video](https://www.loom.com/share/2da0741391f243c5814be9a17b4a8f5e) on how to make a web build and upload it to itch.io~~ -- The Unity Audio Mixer doesn't work properly on web builds :( we'll stick to desktop builds for this assignment
+
 Gabe Cuzzillo's game "Block Dog" is silent.  Clone this repo, open BlockDog in Unity Hub, and give it sound!
 
-You should be working in the Scene called "Block Dog", on the Prefab called "AudioDirector."  Your work begins at the header **Start Editing Stuff Here**. The minimum is to create **13** assets for the game.  2 of these are loops - the Danger Loop and the Background Music (which could also be background ambience, if you prefer)
+If you need a Unity refresher, are new to the program, or just need a written refence on what to do, you can find a write up [HERE](https://docs.google.com/document/d/1Iy4nT3MbeoLoDfEP5K5wEiEsUHY7wQRriO0M3FbfPro/edit?usp=sharing)
+
+You should be working in the Scene called "Block Dog", on the Prefab called "AudioDirector."  Your work begins at the header **Start Editing Stuff Here**. The minimum is to create **12** assets for the game.  2 of these are loops - the Danger Loop and the Background Music (which could also be background ambience, if you prefer)
 
 You can use:
 * Whatever you find on the internet, or in the Audio for Digital Games Library.
