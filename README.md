@@ -3,7 +3,7 @@ Fall 2020 Repository for Audio for Digital Games at NYU!
 
 WEEK 7-9 ASSIGNMENT - 3D RESKIN
 ------
-The SampleFPS project is filled with placeholder sounds, and needs new audio!  Clone the repo, open the Otto Project in both Unity and FMOD, and replace the audio.
+The SampleFPS project is filled with placeholder sounds, and needs new audio!  Clone the repo, open the SampleFPS project in both Unity and FMOD, and replace the audio.
 
 There will be a **progress check on October 26** - aim for about half of the sounds in the game.  Builds will be due at **11:59 pm on Sunday, Nov 1st**
 
