@@ -1,7 +1,7 @@
 # UG212_AudioForGames_Fall20
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
-WEEK 7/8 ASSIGNMENT - 3D RESKIN
+WEEK 7-9 ASSIGNMENT - 3D RESKIN
 ------
 The SampleFPS project is filled with placeholder sounds, and needs new audio!  Clone the repo, open the Otto Project in both Unity and FMOD, and replace the audio.
 
