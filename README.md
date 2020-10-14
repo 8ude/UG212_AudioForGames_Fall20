@@ -5,7 +5,7 @@ WEEK 7-9 ASSIGNMENT - 3D RESKIN
 ------
 The SampleFPS project is filled with placeholder sounds, and needs new audio!  Clone the repo, open the SampleFPS project in both Unity and FMOD, and replace the audio.
 
-There will be a **progress check on October 26** - aim for about half of the sounds in the game.  Builds will be due at **11:59 pm on Sunday, Nov 1st**
+There will be a **progress check on October 26** - aim for about half of the sounds in the game.  Builds will be due at **11:59 pm on Sunday, Nov 1st**.  Upload them [HERE](https://drive.google.com/drive/folders/1QucPB_Ulop333bOMalsAyMtIJWgIYAYM?usp=sharing)
 
 A lot of the work is going to be done in FMOD studio.  You may need to work in Unity a bit to make more emitters for your ambiences, or to code additional parameters if you choose.
 
