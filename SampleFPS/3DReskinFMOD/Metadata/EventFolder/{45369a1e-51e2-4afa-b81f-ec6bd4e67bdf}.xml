@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{45369a1e-51e2-4afa-b81f-ec6bd4e67bdf}">
+		<property name="name">
+			<value>UISounds</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6c1a02d1-215a-4224-baad-47447d72bd6b}</destination>
+		</relationship>
+	</object>
+</objects>

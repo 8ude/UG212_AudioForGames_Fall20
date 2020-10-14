@@ -63,8 +63,8 @@ sysinfo.txt
 *.akd
 
 # fmod autogen files
-/fmod.log
-/fmod_editor.log
+*/fmod.log
+*/fmod_editor.log
 **/FMODStudioCache.asset
 **/FMODStudioCache.asset.meta
 **/FMODStudioSettings.asset

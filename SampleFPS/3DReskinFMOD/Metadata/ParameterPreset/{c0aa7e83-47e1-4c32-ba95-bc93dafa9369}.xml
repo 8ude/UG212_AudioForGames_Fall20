@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{c0aa7e83-47e1-4c32-ba95-bc93dafa9369}">
+		<property name="name">
+			<value>CurrentAmmo</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1df2550f-b895-4c7c-a2d9-8d8c4e10cbad}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{77720671-eb4d-441a-a383-845b64059992}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{77720671-eb4d-441a-a383-845b64059992}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{3eaf7a03-6ba5-45ea-8ba4-e6287bf9b806}">
+		<property name="name">
+			<value>JetpackFuel</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1df2550f-b895-4c7c-a2d9-8d8c4e10cbad}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4f456778-98c6-4fde-bee9-aa91ec9fc606}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4f456778-98c6-4fde-bee9-aa91ec9fc606}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
