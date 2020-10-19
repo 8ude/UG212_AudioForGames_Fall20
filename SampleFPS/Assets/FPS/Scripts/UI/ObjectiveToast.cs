@@ -29,9 +29,9 @@ public class ObjectiveToast : MonoBehaviour
 
     [Header("Sound")]
     [Tooltip("Sound that will be player on initialization")]
-    public AudioClip initSound;
+    [FMODUnity.EventRef] public string initSound;
     [Tooltip("Sound that will be player on completion")]
-    public AudioClip completedSound;
+    [FMODUnity.EventRef] public string completedSound;
 
     [Header("Movement")]
     [Tooltip("Time it takes to move in the screen")]
@@ -174,17 +174,19 @@ public class ObjectiveToast : MonoBehaviour
         }
     }
 
-    void PlaySound(AudioClip sound)
+    void PlaySound(string sound)
     {
-        if (!sound)
+        if (sound == null)
             return;
 
-        if (!m_AudioSource)
-        {
-            m_AudioSource = gameObject.AddComponent<AudioSource>();
-            m_AudioSource.outputAudioMixerGroup = AudioUtility.GetAudioGroup(AudioUtility.AudioGroups.HUDObjective);
-        }
+        //if (!m_AudioSource)
+        //{
+        //    m_AudioSource = gameObject.AddComponent<AudioSource>();
+        //    m_AudioSource.outputAudioMixerGroup = AudioUtility.GetAudioGroup(AudioUtility.AudioGroups.HUDObjective);
+        //}
 
-        m_AudioSource.PlayOneShot(sound);
+        FMODUnity.RuntimeManager.PlayOneShot(sound);
+
+        //m_AudioSource.PlayOneShot(sound);
     }
 }

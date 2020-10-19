@@ -38,7 +38,7 @@ public class EnemyMobile : MonoBehaviour
     void Start()
     {
         audioEmitter = GetComponent<FMODUnity.StudioEventEmitter>();
-        audioEmitter.Event = ReskinGameAudio.instance.audioRefs.EnemyMove;
+        //audioEmitter.Event = ReskinGameAudio.instance.audioRefs.EnemyMove;
         audioEmitter.Play();
 
         m_EnemyController = GetComponent<EnemyController>();
@@ -157,6 +157,8 @@ public class EnemyMobile : MonoBehaviour
         //     AudioUtility.CreateSFX(onDetectSFX, transform.position, AudioUtility.AudioGroups.EnemyDetection, 1f);
         // }
         FMODUnity.RuntimeManager.PlayOneShotAttached(ReskinGameAudio.instance.audioRefs.EnemyAlert, gameObject);
+
+        Debug.Log(gameObject.name + "detected target");
 
 
         animator.SetBool(k_AnimAlertedParameter, true);

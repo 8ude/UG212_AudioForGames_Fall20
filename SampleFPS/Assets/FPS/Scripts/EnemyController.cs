@@ -57,7 +57,7 @@ public class EnemyController : MonoBehaviour
 
     [Header("Sounds")]
     [Tooltip("Sound played when recieving damages")]
-    public AudioClip damageTick;
+    //public AudioClip damageTick;
     [FMODUnity.EventRef] public string enemyDamagedEventRef;
 
     [Header("VFX")]
@@ -234,6 +234,8 @@ public class EnemyController : MonoBehaviour
 
     void OnDetectedTarget()
     {
+        Debug.Log(gameObject.name + "On Detected Target");
+
         onDetectedTarget.Invoke();
 
         // Set the eye default color and property block if the eye renderer is set

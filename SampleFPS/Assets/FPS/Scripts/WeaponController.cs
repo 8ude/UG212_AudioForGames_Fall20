@@ -383,7 +383,7 @@ public class WeaponController : MonoBehaviour
         // play shoot SFX
         if (shootEventString != null && !useContinuousShootSound)
         {
-            Debug.Log("Weapon Shoot");
+            //Debug.Log("Weapon Shoot");
             FMODUnity.RuntimeManager.PlayOneShotAttached(shootEventString, "CurrentAmmo", currentAmmoRatio, gameObject);
         }
 

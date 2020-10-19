@@ -146,7 +146,6 @@ MonoBehaviour:
     m_NumColorKeys: 3
     m_NumAlphaKeys: 2
   flashOnHitDuration: 0.2
-  damageTick: {fileID: 8300000, guid: a7fae22399a6e1d448dc0dd2210f1dac, type: 3}
   enemyDamagedEventRef: event:/EnemySFX/EnemyTakeDamage
   deathVFX: {fileID: 8950624839484268180, guid: 2a8f5052fe50f7b41b17149abb0f7414,
     type: 3}
@@ -277,7 +276,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CollisionTag: 
-  Event: 
+  Event: event:/EnemySFX/EnemyMove
   PlayEvent: 1
   StopEvent: 2
   AllowFadeout: 1
@@ -285,8 +284,8 @@ MonoBehaviour:
   Preload: 0
   Params: []
   OverrideAttenuation: 0
-  OverrideMinDistance: -1
-  OverrideMaxDistance: -1
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!1 &2201913640410082181
 GameObject:
   m_ObjectHideFlags: 0
