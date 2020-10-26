@@ -54,15 +54,6 @@ public class FMODReferences : ScriptableObject
 	public string ReloadPistol = "event:/PlayerCombat/ReloadPistol";
 
 	[FMODUnity.EventRef]
-	public string ShootLauncher = "event:/PlayerCombat/ShootLauncher";
-
-	[FMODUnity.EventRef]
-	public string LauncherImpact = "event:/PlayerCombat/LauncherImpact";
-
-	[FMODUnity.EventRef]
-	public string ReloadLauncher = "event:/PlayerCombat/ReloadLauncher";
-
-	[FMODUnity.EventRef]
 	public string PlayerTakeDamage = "event:/PlayerCombat/PlayerTakeDamage";
 
     [FMODUnity.EventRef]

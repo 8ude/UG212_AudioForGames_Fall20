@@ -124,6 +124,12 @@
 		<property name="length">
 			<value>0.20000000000000001</value>
 		</property>
+		<property name="commandType">
+			<value>1</value>
+		</property>
+		<relationship name="commandTarget">
+			<destination>{25271692-2767-4ad3-8a3f-2082e4928782}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{b7d7d12f-cc5d-4a7f-a602-131713ada560}">
 		<property name="name">

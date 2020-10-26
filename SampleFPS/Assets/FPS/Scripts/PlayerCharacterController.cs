@@ -60,8 +60,6 @@ public class PlayerCharacterController : MonoBehaviour
 
     [Header("Audio")]
 
-    //fmod todo - footstep sound -- automatic sprinting increase??
-
     [Tooltip("Amount of footstep sounds played when moving one meter")]
     public float footstepSFXFrequency = 1f;
     [Tooltip("Amount of footstep sounds played when moving one meter while sprinting")]
@@ -146,6 +144,7 @@ public class PlayerCharacterController : MonoBehaviour
         m_Controller.enableOverlapRecovery = true;
 
         m_Health.onDie += OnDie;
+        m_Health.onDamaged += OnDamaged;
 
         // force the crouch state to false when starting
         SetCrouchingState(false, true);
@@ -200,6 +199,22 @@ public class PlayerCharacterController : MonoBehaviour
         UpdateCharacterHeight(false);
 
         HandleCharacterMovement();
+    }
+
+
+    //New Audio - added for class
+
+    //for some reason this method wasn't in the code, even though it's in the enemy controller.  maybe the designers forgot?
+
+    //at any rate, when we subscribe to the onDamage event from our health script, that event wants to pass 2 arguments:
+    // - the damage amount
+    // - the game object that the damage is coming from (most likely a projectile)
+
+    //right now, we aren't doing anything with that information, but we need to pass it along anyway because that's how the
+    //scripts are set up.
+    void OnDamaged(float damageAmount, GameObject damageSource)
+    {
+        FMODUnity.RuntimeManager.PlayOneShot(ReskinGameAudio.instance.audioRefs.PlayerTakeDamage, "PlayerHealth", m_Health.currentHealth);
     }
 
     void OnDie()

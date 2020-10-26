@@ -95,6 +95,12 @@
 		<property name="length">
 			<value>3.9498125000000002</value>
 		</property>
+		<property name="volume">
+			<value>10</value>
+		</property>
+		<property name="minimumScatterDistance">
+			<value>3</value>
+		</property>
 		<relationship name="sound">
 			<destination>{cffac7f9-2030-4406-a246-ce1989b037f5}</destination>
 		</relationship>
@@ -120,6 +126,7 @@
 		<property name="length">
 			<value>3.9498125000000002</value>
 		</property>
+		<property name="name" />
 		<relationship name="timeline">
 			<destination>{76a516f1-ccb9-42bc-ad28-83a0a9796879}</destination>
 		</relationship>

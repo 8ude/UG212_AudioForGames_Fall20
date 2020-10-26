@@ -16,7 +16,8 @@ MonoBehaviour:
   LowHealth: event:/UISounds/LowHealth
   SelectOption: event:/UISounds/SelectOption
   WinGame: event:/UISounds/WinGame
-  LoseGame: event:/UISounds/LoseGame
+  WinGameScreen: event:/UISounds/WinGameScreen
+  LoseGameScreen: event:/UISounds/LoseGameScreen
   MainMenu: event:/Ambience/MainMenu
   LavaAmbience: event:/Ambience/LavaAmbience
   BuildingAmbience: event:/Ambience/BuildingAmbience
@@ -27,19 +28,15 @@ MonoBehaviour:
   UseJetpack: event:/PlayerMovement/UseJetpack
   ShootPistol: event:/PlayerCombat/ShootPistol
   ReloadPistol: event:/PlayerCombat/ReloadPistol
-  ShootLauncher: event:/PlayerCombat/ShootLauncher
-  LauncherImpact: event:/PlayerCombat/LauncherImpact
-  ReloadLauncher: event:/PlayerCombat/ReloadLauncher
-  ShootShotgun: event:/PlayerCombat/ShootShotgun
-  ReloadShotgun: event:/PlayerCombat/ReloadShotgun
   PlayerTakeDamage: event:/PlayerCombat/PlayerTakeDamage
+  PlayerLose: event:/PlayerCombat/PlayerLose
   PickupLauncher: event:/PlayerPowerups/PickupLauncher
   PickupJetpack: event:/PlayerPowerups/PickupJetpack
-  PickupShotgun: event:/PlayerPowerups/PickupShotgun
   PickupHealth: event:/PlayerPowerups/PickupHealth
   HealthAmbient: event:/PlayerPowerups/HealthAmbient
   PowerupAmbient: event:/PlayerPowerups/PowerupAmbient
   EnemyAlert: event:/EnemySFX/EnemyAlert
+  EnemyMove: event:/EnemySFX/EnemyMove
   DestroyEnemy: event:/EnemySFX/DestroyEnemy
   RobotShot: event:/EnemySFX/RobotShot
   BossShot: event:/EnemySFX/BossShot
