@@ -1,6 +1,21 @@
 # UG212_AudioForGames_Fall20
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
+WEEK 9 ASSIGNMENT - 3D SOUNDSPACE
+------
+Due Sunday, Nov 8 at 11:59 pm
+
+Using Resonance Audio and Unity, create a sonic environment/walking simulator/sound installation that makes use of the following:
+
+- At least 5 audio sources that make use of the resonance audio features (directionality, occlusion, etc)
+- At least 3 distinct reverb spaces
+
+Additionally, I encourage you to try to make an ambisonic loop (not required).  I'll post a video on how to make one.
+
+I recommend starting from the ResonanceAudioDemo scene in the unity package.
+
+[Upload your builds here](https://drive.google.com/drive/folders/14U62NOPeFEZeQHd_g7vL8bCA1fH9Apr7?usp=sharing)
+
 WEEK 7-9 ASSIGNMENT - 3D RESKIN
 ------
 The SampleFPS project is filled with placeholder sounds, and needs new audio!  Clone the repo, open the SampleFPS project in both Unity and FMOD, and replace the audio.
