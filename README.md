@@ -1,7 +1,21 @@
 # UG212_AudioForGames_Fall20
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
-WEEK 9 ASSIGNMENT - 3D SOUNDSPACE
+WEEK 11 ASSIGNMENT - MUSIC
+------
+
+Due Sunday, Nov 16 at 11:59 pm
+
+Pick a screenshot or box art from [HERE](https://drive.google.com/open?id=12qiPQRp3esnnQXWAuZJFnsE81Eehc0lp) as a point of inspiration!  You can find your own, but it will help if you don't already know the music!
+
+Make 2 sections of music - think of them as an "A section" and a "B section."  Here's a [Sample Reaper Project with some instruments set up](https://drive.google.com/file/d/1T7Pv7u1g1VZosPoHqLuHV9vSawDRu1ma/view?usp=sharing). If you don't like working in Reaper, I recommend trying something like [Bosca Ceoil](https://boscaceoil.net/) or [BandLab](https://www.bandlab.com/)
+
+You can make use of some of the apps and plugins on the [Musical Resources Page](https://github.com/8ude/UG212_AudioForGames_Fall20/wiki/Music-Making-Resources)
+
+Upload your music [HERE](https://drive.google.com/drive/folders/1ReWFe7dGmDdIjIyP2a-QSjfD_tKtZZT_?usp=sharing)
+
+
+WEEK 10 ASSIGNMENT - 3D SOUNDSPACE
 ------
 Due Sunday, Nov 8 at 11:59 pm
 
