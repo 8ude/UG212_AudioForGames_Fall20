@@ -1,6 +1,17 @@
 # UG212_AudioForGames_Fall20
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
+WEEK 12 ASSIGNMENT - MUSIC 2
+------
+
+Due Sunday, Nov 22nd at 11:59 pm
+
+Do a second pass of your music from last week - your goal is to make it interactive!
+
+Put your music into an FMOD project, and incorporate some kind of parameter-based transitions.  Maybe your music starts in "town" music, then transitions to "countryside."  Maybe it's a battle theme which changes as the boss gets lower in health.  Maybe its ambient music, and different fragments occur at random intervals.
+
+Upload your FMOD Project [HERE](https://drive.google.com/drive/folders/1iZbcA4guQPuIylTCwUK2h1s1uoB0qDGm?usp=sharing)
+
 WEEK 11 ASSIGNMENT - MUSIC
 ------
 
