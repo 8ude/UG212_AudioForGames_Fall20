@@ -1,6 +1,45 @@
 # UG212_AudioForGames_Fall20
 Fall 2020 Repository for Audio for Digital Games at NYU!
 
+
+FINAL PROJECT - AUDIO GAME
+------
+
+Your final project for this class is going to be to make an **audio game**
+
+What's an audio game?  It could be:
+ - a game with no visual feedback (audio-only game)
+ - a game that uses audio as the primary gameplay mechanic (often this means audio-related puzzles, or something like microphone input)  
+ - a game based around an interesting audio phenomenon, like ASMR or psycho acoustics
+ - a game based around music (like a rhythm game or a sound toy)
+
+If you need some more inspiration, check out the [Audio Game Jam](https://itch.io/jam/agjam) that Maize Wallin organized earlier this year, and [here is a website dedicted to audio-only games](https://audiogames.net/list-games/)
+
+A few favorites of mine:
+
+[Deep Sea by Robin Arnott](https://vimeo.com/17299509) (a No Quarter comission!)
+
+[Papa Sangre](https://www.youtube.com/watch?v=jxXwotksBdM)
+
+[Nightjar](https://www.youtube.com/watch?v=zeBFCQ-aBds) - also by the developers of Papa Sangre.  Unfortunately, a lot of the good audio only games were only on iOS.  The let's plays are all that's left.
+
+You can work in groups, and you can whatever game engine you'd like.
+
+On **Wednesday Dec 2** I will be doing a progress check.  It's fine if you don't have much, but aim for something playable!
+
+You will present your games at the last class on **Wednesday Dec 9** 
+
+(You can continue to make any changes, and turn in late work, until Wednesday Dec 16)
+
+Put your final build together with a text or pdf file that contains:
+- your game name
+- your team members names
+- instructions on how to play
+
+And upload a compressed file [HERE](https://drive.google.com/drive/folders/1C0pWb5ouLrxaaEbeJQix8bRc6VGTRd4N?usp=sharing)
+
+
+
 WEEK 12 ASSIGNMENT - MUSIC 2
 ------
 
